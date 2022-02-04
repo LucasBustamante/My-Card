@@ -56,7 +56,7 @@ class _HomePageState extends State<HomePage> {
               child: ListTile(leading: Icon(
                 Icons.phone,color: kPrimaryColor,
               ),
-              title: Text('+55 (11) 98026 xxxxgit init', style: TextStyle(
+              title: Text('+55 (11) 98026 xxxx', style: TextStyle(
                 fontSize: 20, fontWeight: FontWeight.w600, letterSpacing: 2,
                 color: kPrimaryColor
               ),),),),
